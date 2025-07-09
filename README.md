@@ -1,8 +1,3 @@
-<!-- Visitor Counter -->
-<a href="https://komarev.com/ghpvc/?username=aryan2022-bit">
-  <img align="right" src="https://komarev.com/ghpvc/?username=aryan2022-bit&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
 <!-- Header -->
 <h3 align="center">
   <samp>&gt; Hey there! I’m <b>Aryan Prasad</b></samp>
