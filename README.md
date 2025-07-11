@@ -13,13 +13,13 @@
 
 <!-- Socials -->
 <p align="center">
-  <a href="https://linkedin.com/in/aryan-prasad-40665424a" target="_blank">
+  <a href="https://linkedin.com/in/aryan-prasad-40665424a">
     <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Prasad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:aryanprasad3195@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:aryanprasad3195@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Click%20to%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/aryan2022-bit" target="_blank">
+  <a href="https://github.com/aryan2022-bit">
     <img src="https://img.shields.io/badge/GitHub-aryan2022--bit-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -47,12 +47,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan2022-bit&show_icons=true&theme=react&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan2022-bit&theme=react&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan2022-bit&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan2022-bit&theme=react&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan2022-bit&layout=compact&theme=react&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan2022-bit&layout=compact&theme=react&hide_border=true" width="48%" />
 </p>
 
 ---
