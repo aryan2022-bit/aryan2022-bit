@@ -55,7 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan2022-bit&layout=compact&theme=react&hide_border=true" width="48%" />
 </p>
 
-
 ---
 
 ## 📈 GitHub Activity
