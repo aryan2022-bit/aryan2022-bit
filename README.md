@@ -10,8 +10,6 @@
 <p align="center">
   <samp>
     Beginner Developer | Problem Solver | Code Explorer 💻
-    <br>
-    From <b>India</b>, passionate about learning and building
   </samp>
 </p>
 
