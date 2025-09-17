@@ -49,19 +49,28 @@
 
 ## 📊 GitHub Stats
 
-<!-- Using a responsive-like layout via HTML for side-by-side cards -->
 <p align="center">
+  <!-- Self-hosted github-readme-stats domain recommended; replace below if you already deployed (example used from your prior deployment).
+       If you haven't changed yet, keep public; but hosting removes rate limits. -->
   <a href="https://github.com/aryan2022-bit">
-    <img src="https://github-readme-stats.vercel.app/api?username=aryan2022-bit&show_icons=true&theme=react&hide_border=true" alt="Aryan's GitHub Stats" height="165" />
+    <img src="https://github-readme-stats-chi-orcin-88.vercel.app/api?username=aryan2022-bit&show_icons=true&theme=react&hide_border=true&cache_seconds=86400" alt="Aryan's GitHub Stats" height="165" />
   </a>
+
+  <!-- OPTION A (Public Streak with cache) -->
   <a href="https://github.com/aryan2022-bit">
-    <img src="https://streak-stats.demolab.com?user=aryan2022-bit&theme=react&hide_border=true" alt="GitHub Streak" height="165" />
+    <img src="https://streak-stats.demolab.com?user=aryan2022-bit&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" alt="GitHub Streak" height="165" />
   </a>
+
+  <!-- OPTION B (Self-hosted Streak - uncomment after deployment and comment out Option A)
+  <a href="https://github.com/aryan2022-bit">
+    <img src="https://<your-streak-app>.vercel.app?user=aryan2022-bit&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" alt="GitHub Streak (Self-Hosted)" height="165" />
+  </a>
+  -->
 </p>
 
 <p align="center">
   <a href="https://github.com/aryan2022-bit">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan2022-bit&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="165" />
+    <img src="https://github-readme-stats-chi-orcin-88.vercel.app/api/top-langs/?username=aryan2022-bit&layout=compact&theme=react&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165" />
   </a>
 </p>
 
