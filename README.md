@@ -42,30 +42,30 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,vscode,github" alt="My Stack" />
+  <!-- Added nodejs, express, mongodb -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,vscode,github" alt="My Stack" />
 </p>
+
+<!-- Optionally, you could show them grouped (uncomment if you prefer)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,vscode,github" />
+</p>
+-->
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Self-hosted github-readme-stats domain recommended; replace below if you already deployed (example used from your prior deployment).
-       If you haven't changed yet, keep public; but hosting removes rate limits. -->
   <a href="https://github.com/aryan2022-bit">
     <img src="https://github-readme-stats-chi-orcin-88.vercel.app/api?username=aryan2022-bit&show_icons=true&theme=react&hide_border=true&cache_seconds=86400" alt="Aryan's GitHub Stats" height="165" />
   </a>
 
-  <!-- OPTION A (Public Streak with cache) -->
   <a href="https://github.com/aryan2022-bit">
     <img src="https://streak-stats.demolab.com?user=aryan2022-bit&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" alt="GitHub Streak" height="165" />
   </a>
-
-  <!-- OPTION B (Self-hosted Streak - uncomment after deployment and comment out Option A)
-  <a href="https://github.com/aryan2022-bit">
-    <img src="https://<your-streak-app>.vercel.app?user=aryan2022-bit&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" alt="GitHub Streak (Self-Hosted)" height="165" />
-  </a>
-  -->
 </p>
 
 <p align="center">
