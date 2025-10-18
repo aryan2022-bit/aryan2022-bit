@@ -85,7 +85,6 @@
 ---
 
 <p align="center"><b>“One step at a time, but always forward.” 🚀</b></p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120px" /><br>
 </p>
