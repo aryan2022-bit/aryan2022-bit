@@ -34,7 +34,7 @@
 - 👨‍💻 I’m @aryan2022-bit  
 - 💡 I enjoy solving problems and writing clean, efficient code  
 - 🌱 Constantly learning new programming concepts and technologies  
-- 🧩 Solved around 250+ coding problems across platforms like LeetCode, GeeksforGeeks, and others  
+- 🧩 Solved around 300+ coding problems across platforms like LeetCode, GeeksforGeeks, and others  
 - 🤝 Open to beginner-friendly mini projects and collaborations  
 - 📧 Reach me at: `aryanprasad3195@gmail.com`  
 
