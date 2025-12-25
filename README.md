@@ -44,14 +44,14 @@
 
 <p align="center">
   <!-- Added nodejs, express, mongodb -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,vscode,github" alt="My Stack" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,react,nodejs,express,mongodb,vscode,github" alt="My Stack" />
 </p>
 
 <!-- Optionally, you could show them grouped (uncomment if you prefer)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-  <img src="https://skillicons.dev/icons?i=c,cpp,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,vscode,github" />
 </p>
 -->
 
